@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchWord", "SearchWord.csproj", "{53835654-CF3C-4144-A97C-82310DEA7959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSearchWord", "TestSearchWord\TestSearchWord.csproj", "{176C63F4-A99A-4950-8576-4F23A240CC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53835654-CF3C-4144-A97C-82310DEA7959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53835654-CF3C-4144-A97C-82310DEA7959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53835654-CF3C-4144-A97C-82310DEA7959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53835654-CF3C-4144-A97C-82310DEA7959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176C63F4-A99A-4950-8576-4F23A240CC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176C63F4-A99A-4950-8576-4F23A240CC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176C63F4-A99A-4950-8576-4F23A240CC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176C63F4-A99A-4950-8576-4F23A240CC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE32A58-0BAB-4378-9164-436C3B14386C}
+	EndGlobalSection
+EndGlobal

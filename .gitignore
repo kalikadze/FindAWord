@@ -1,0 +1,12 @@
+/.vs
+/bin
+/obj
+/packages
+/TestSearchWord/bin
+/TestSearchWord/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/TestSearchWord/obj/Debug/TestSearchWord.csproj.AssemblyReference.cache
+/TestSearchWord/obj/Debug/TestSearchWord.csproj.CopyComplete
+/TestSearchWord/obj/Debug/TestSearchWord.csproj.CoreCompileInputs.cache
+/TestSearchWord/obj/Debug/TestSearchWord.csproj.FileListAbsolute.txt
+/TestSearchWord/obj/Debug/TestSearchWord.dll
+/TestSearchWord/obj/Debug/TestSearchWord.pdb
